@@ -1,0 +1,48 @@
+/* Detail.css 파일 */
+.container {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 0;
+  }
+  
+  .movie-details {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+  }
+  
+  .movie-details img {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .movie-description {
+    flex-grow: 1;
+  }
+  
+  .movie-description h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .movie-description ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .movie-description ul li {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  
+  .movie-description p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  

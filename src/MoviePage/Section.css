@@ -1,0 +1,21 @@
+.movie-card {
+    background-color: #333;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .movie-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .movie-card h2 {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+  }
+  
+ 
